@@ -9,3 +9,5 @@ cogimos el ultimo commit y lo cambiamos por el primero
 
 Estamos practicado los comandos de git para tener más
 manejo de este
+
+Haciendo cambios al documento desde la rama de prueba crada 
