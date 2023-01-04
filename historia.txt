@@ -6,3 +6,6 @@ Estoy emocionado
 
 Esta vez lo que hicimos fue volver al commit anterior que teniamos, 
 cogimos el ultimo commit y lo cambiamos por el primero
+
+Estamos practicado los comandos de git para tener más
+manejo de este
