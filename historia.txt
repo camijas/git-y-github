@@ -10,9 +10,5 @@ cogimos el ultimo commit y lo cambiamos por el primero
 Estamos practicado los comandos de git para tener más
 manejo de este
 
-<<<<<<< HEAD
-Haciendo cambios al documento desde la rama de prueba crada 
-=======
 se le hizo un cambio desde la rama prueba. ahora este cambio
 es desde la rama master
->>>>>>> master
