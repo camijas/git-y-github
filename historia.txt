@@ -12,3 +12,6 @@ manejo de este
 
 se le hizo un cambio desde la rama prueba. ahora este cambio
 es desde la rama master
+
+ESTA VEZ ESTOY EMOCIONADO PORQUE YA A PRENDI A COMO SUBIR COMMITS AL RESPOSITORIO DE GITHUB.
+ESTA EDICION LA HAGO DESDE GITHUB
