@@ -1,2 +1,0 @@
-# proyecto
-clase git platzi
