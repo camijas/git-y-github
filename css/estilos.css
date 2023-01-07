@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:rgb(0, 51, 255);
+=======
+    color:rgb(247, 4, 4);
+>>>>>>> footer
     text-align: center;
     font-family: "arial";
 }
